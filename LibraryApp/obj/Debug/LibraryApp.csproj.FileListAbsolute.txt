@@ -1,0 +1,20 @@
+C:\Users\Turcanu\Documents\Visual Studio 2015\Projects\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csprojResolveAssemblyReference.cache
+C:\Users\Turcanu\Documents\Visual Studio 2015\Projects\LibraryApp\LibraryApp\obj\Debug\LibraryApp.AddTemplate.resources
+C:\Users\Turcanu\Documents\Visual Studio 2015\Projects\LibraryApp\LibraryApp\obj\Debug\LibraryApp.LibAppUI.resources
+C:\Users\Turcanu\Documents\Visual Studio 2015\Projects\LibraryApp\LibraryApp\obj\Debug\LibraryApp.Login.resources
+C:\Users\Turcanu\Documents\Visual Studio 2015\Projects\LibraryApp\LibraryApp\obj\Debug\LibraryApp.Properties.Resources.resources
+C:\Users\Turcanu\Documents\Visual Studio 2015\Projects\LibraryApp\LibraryApp\obj\Debug\LibraryApp.ViewTemplate.resources
+C:\Users\Turcanu\Documents\Visual Studio 2015\Projects\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.GenerateResource.Cache
+C:\Users\Turcanu\Documents\Visual Studio 2015\Projects\LibraryApp\LibraryApp\bin\Debug\LibraryApp.exe.config
+C:\Users\Turcanu\Documents\Visual Studio 2015\Projects\LibraryApp\LibraryApp\bin\Debug\LibraryApp.exe
+C:\Users\Turcanu\Documents\Visual Studio 2015\Projects\LibraryApp\LibraryApp\bin\Debug\LibraryApp.pdb
+C:\Users\Turcanu\Documents\Visual Studio 2015\Projects\LibraryApp\LibraryApp\bin\Debug\BAL.dll
+C:\Users\Turcanu\Documents\Visual Studio 2015\Projects\LibraryApp\LibraryApp\bin\Debug\DAL.dll
+C:\Users\Turcanu\Documents\Visual Studio 2015\Projects\LibraryApp\LibraryApp\bin\Debug\BAL.pdb
+C:\Users\Turcanu\Documents\Visual Studio 2015\Projects\LibraryApp\LibraryApp\bin\Debug\DAL.pdb
+C:\Users\Turcanu\Documents\Visual Studio 2015\Projects\LibraryApp\LibraryApp\obj\Debug\LibraryApp.exe
+C:\Users\Turcanu\Documents\Visual Studio 2015\Projects\LibraryApp\LibraryApp\obj\Debug\LibraryApp.pdb
+C:\Users\Turcanu\Documents\Visual Studio 2015\Projects\LibraryApp\LibraryApp\obj\Debug\LibraryApp.AddUserBox.resources
+C:\Users\Turcanu\Source\Repos\LibraryApp\LibraryApp\bin\Debug\LibraryApp.exe.config
+C:\Users\Turcanu\Source\Repos\LibraryApp\LibraryApp\obj\Debug\LibraryApp.exe
+C:\Users\Turcanu\Source\Repos\LibraryApp\LibraryApp\obj\Debug\LibraryApp.pdb

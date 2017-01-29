@@ -1,0 +1,6 @@
+23:37:00.7036651: **BOOK**The Collector by John Fowles has been removed.
+
+23:37:04.9496620: **MEMBER**Martha Orleans CNP: 2780313598213 has been removed.
+
+23:37:09.6219814: **LOAN** Martha Orleans - Scrisoare De Dragoste by Mihail Drumes has been removed.
+

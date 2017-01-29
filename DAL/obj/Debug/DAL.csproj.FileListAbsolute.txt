@@ -1,0 +1,6 @@
+C:\Users\Turcanu\Documents\Visual Studio 2015\Projects\LibraryApp\DAL\obj\Debug\DAL.csproj.ResolveComReference.cache
+C:\Users\Turcanu\Documents\Visual Studio 2015\Projects\LibraryApp\DAL\bin\Debug\DAL.dll
+C:\Users\Turcanu\Documents\Visual Studio 2015\Projects\LibraryApp\DAL\bin\Debug\DAL.pdb
+C:\Users\Turcanu\Documents\Visual Studio 2015\Projects\LibraryApp\DAL\obj\Debug\DAL.dll
+C:\Users\Turcanu\Documents\Visual Studio 2015\Projects\LibraryApp\DAL\obj\Debug\DAL.pdb
+C:\Users\Turcanu\Documents\Visual Studio 2015\Projects\LibraryApp\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

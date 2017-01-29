@@ -1,0 +1,33 @@
+10:28:17.4671838: **BOOK** The Collector by John Fowles has been removed.
+
+10:29:01.1121830: **LOAN** Martha Orleans - East of Eden by John Steinbeck has been removed.
+
+12:36:53.9374438: **MEMBER** Steven Leaf CNP: 1891103692104 has been removed.
+
+15:08:22.1035077: **BOOK** 1984 by George Orwell has been removed.
+
+15:08:49.4559152: **MEMBER** Adrien Bees CNP: 1780421243398 has been removed.
+
+15:22:25.2505181: **MEMBER** Name Surname CNP: CNP has been added.
+
+15:24:51.6203722: **MEMBER** Name Surname CNP: CNP has been added.
+
+15:27:57.2912269: **MEMBER** Name Surname CNP: CNP has been added.
+
+15:30:52.3611218: **MEMBER** Name Surname CNP: CNP has been added.
+
+15:37:53.0877311: **MEMBER** Name Surname CNP: CNP has been added.
+
+15:39:30.8409648: **MEMBER** Name Surname CNP: CNP has been added.
+
+15:44:37.6446954: **MEMBER** Name Surname CNP: CNP has been added.
+
+16:14:13.7515059: **BOOK** Title by Author has been added.
+
+16:18:42.6680980: **BOOK** To Kill a Mockingbird by Harper Lee has been added.
+
+16:29:59.1535573: **BOOK** Cosmos by Carl Sagan has been added.
+
+16:33:12.8841574: **BOOK** The Theory of Everything by Stephen Hawking has been added.
+
+17:03:22.0793353: **BOOK** The Collector by John Fowles has been updated.

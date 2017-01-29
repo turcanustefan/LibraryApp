@@ -1,0 +1,36 @@
+00:40:20.1471081: **BOOK** East of Eden by John Steinbeck has been *ADDED*.
+
+10:42:52.2546693: **BOOK** Legion of the Damned by Sven Hassel has been *UPDATED*.
+
+11:11:58.9289961: **BOOK** Scrisoare De Dragoste by Mihail Drumes has been *UPDATED* by admin
+
+11:12:03.1319561: **BOOK** Scrisoare De Dragoste by Mihail Drumes has been *UPDATED* by admin
+
+11:26:59.7087585: **BOOK** The Collector by John Fowles has been *UPDATED* by admin
+
+12:03:41.5825273: **BOOK** Legion of the Damned by Sven Hassel has been *UPDATED* by admin
+
+12:03:53.5860751: **BOOK** 1984 by George Orwell has been *UPDATED* by admin
+
+12:13:51.6169958: **BOOK** 1984 by George Orwell has been *UPDATED* by admin
+
+12:14:31.3015205: **BOOK** 1984 by George Orwell has been *UPDATED* by admin
+
+12:17:30.5976064: **MEMBER** Eddie Redmayne CNP: 1880919203401 has been *UPDATED* by admin
+
+12:18:17.4869385: **MEMBER** Eddie Redmayne CNP: 1880919203401 has been *UPDATED* by admin
+
+12:18:33.4712919: **MEMBER** Scrisoare De Dragoste Martha Orleans CNP: 1/10/2017 12:00:00 AM has been *UPDATED* by admin
+
+12:20:29.8582757: **MEMBER** Scrisoare De Dragoste Martha Orleans CNP: 1/10/2017 12:00:00 AM has been *UPDATED* by admin 
+
+12:21:41.1223757: **MEMBER** Scrisoare De Dragoste Martha Orleans CNP: 1/10/2017 12:00:00 AM has been *UPDATED* by admin
+
+12:27:37.5975405: **MEMBER** Scrisoare De Dragoste Martha Orleans CNP: 1/10/2017 12:00:00 AM has been *UPDATED* by admin
+
+12:28:53.8436730: **MEMBER** Scrisoare De Dragoste Martha Orleans CNP: 1/10/2017 12:00:00 AM has been *UPDATED* by admin
+
+12:31:34.9611009: **LOAN** Scrisoare De Dragoste Martha Orleans has been *UPDATED* by admin
+
+15:07:57.1115112: **BOOK** Legion of the Damned by Sven Hassel has been *UPDATED* by sysadmin
+
